@@ -16,8 +16,8 @@ To get started with this repository:
 
 1. **Clone the repository** to your local machine:
     ```bash
-    git clone https://github.com/yourusername/nodejs-practice.git
-    cd nodejs-practice
+    git clone https://github.com/miodragstrak/Node.js.git
+    cd Node.js
     ```
 
 2. **Install dependencies:** Some projects and exercises may require additional dependencies. Refer to each project's README file for instructions.
